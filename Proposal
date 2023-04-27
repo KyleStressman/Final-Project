@@ -1,0 +1,56 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Galactic Explorer
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+It's a text - based adventure game similar to the Oregon Trail, just in space with different problems and areas to explore.
+
+
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+Primarily it will process what the user inputs. I use a for loop to determine which planets you have already chosen to go to, and it wil say these planets are invalid. And I use a for loop to randomize the events, as well as if statements to walk players through their choices of such events. At the end of the code I have i where it adds the planet you just visited into the "visited planets" pile.
+
+
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+TODO, if applicable
+
+
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+
+
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+As of now, I have a decent starting ground for the project. I have layed out the framework for where I could add on as well.
+
+
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+I can hopefully accomplish more details, maybe like a resource health bar, or maybe just more events and outcomes.
+
+
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The best outcome would be to add everything I listed above and then some. Just poish my final project to where im confident in its oucome.
+
+
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+The skills for this game are nothing out of the ordinary. I just needed to review/search the internet for how to do certain things I already knew how to do, but just in a completely different way of learning them.
