@@ -11,9 +11,8 @@ the wrong choice or action its game over and you have to start over...
 
 Video Explaination/Walkthrough:
 
-https://temple.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77612142-4ad7-405a-8593-aff501652cd8 
+https://youtu.be/BlvtF2PVXFA 
 
-## I wasn't able to post on youtube so I used Panopto instead##
 
 Difficulties:
 
